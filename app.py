@@ -3,10 +3,10 @@ app = Flask(__name__)
 
 @app.route('/mypage/me')
 def me():
-    return me("me.html")
+    return render_template("me.html")
 
 @app.route('/mypage/contact')
 def contact():
-    return contact("secound.html")
+    return render_template("secound.html")
 
 
