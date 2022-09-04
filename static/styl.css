@@ -1,0 +1,18 @@
+h1 {
+  color: black;
+  background: grey;
+  font-size: 48px
+}
+.opis{
+  color: blue;
+  font-size: 22px
+}
+p{
+  color: black;
+  font-size: 12px
+}
+
+.powiadomienie{
+  color: black;
+  font-size: 18px
+  }
